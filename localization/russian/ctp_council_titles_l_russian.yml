@@ -10,33 +10,33 @@
 ###################################
   #Goidelic
 ###################################
-   councillor_chancellor_irish_male: "Breitheam"
-   councillor_chancellor_irish_female: "Banbreitheam"
+   councillor_chancellor_irish_male: "Брэхэф"
+   councillor_chancellor_irish_female: "Банбрэхэм"
 ###################################
   #West Germanic
 ###################################
-   councillor_chancellor_english: "Canceler"
-   councillor_chancellor_anglo_saxon: "Héahwita"
-   councillor_chancellor_old_saxon: "Kenselêri"
-   councillor_chancellor_scottish: "Chanceller"
+   councillor_chancellor_english: "Канцлер"
+   councillor_chancellor_anglo_saxon: "Хеахвит"
+   councillor_chancellor_old_saxon: "Канселери"
+   councillor_chancellor_scottish: "Чанслер"
 ###################################
   #Brythonic
 ###################################
-   councillor_chancellor_pictish_male: "Cughelur"
-   councillor_chancellor_pictish_female: "Cughelures"
-   councillor_chancellor_welsh_male: "Kyghellaur"
-   councillor_chancellor_welsh_female: "Kyghellaures"
-   councillor_chancellor_breton_male: "Chancelyer"
-   councillor_chancellor_breton_female: "Chancelyerez"
-   councillor_chancellor_cornish_male: "Cygheller"
-   councillor_chancellor_cornish_female: "Cyghelleres"
-   councillor_chancellor_cumbrian_male: "Cughelur"
-   councillor_chancellor_cumbrian_female: "Cughelures"
+   councillor_chancellor_pictish_male: "Кугхелур"
+   councillor_chancellor_pictish_female: "Кугхелурес"
+   councillor_chancellor_welsh_male: "Кюгхезайр"
+   councillor_chancellor_welsh_female: "Кюгхезайрес"
+   councillor_chancellor_breton_male: "Чансельер"
+   councillor_chancellor_breton_female: "Чансельриз"
+   councillor_chancellor_cornish_male: "Кюгхеллер"
+   councillor_chancellor_cornish_female: "Кюгхеллерез"
+   councillor_chancellor_cumbrian_male: "Кюгхелур"
+   councillor_chancellor_cumbrian_female: "Сюгхелур"
 ###################################
   #Frankish
 ###################################
    councillor_chancellor_frankish: "Kansilârî"
-   councillor_chancellor_french: "Chanceliers"
+   councillor_chancellor_french: "Шанселье"
    councillor_chancellor_norman: "Canceliers"
    councillor_chancellor_occitan: "Canceliers"
    councillor_chancellor_outremer: "Cancellarius"

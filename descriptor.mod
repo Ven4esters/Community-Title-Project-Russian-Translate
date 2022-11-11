@@ -1,9 +1,7 @@
 version="1.2"
 tags={
-	"Historical"
-	"Culture"
 	"Translation"
 }
-name="Community Title Project"
+name="Community Title Project Russian Translate"
 picture="thumbnail.png"
 supported_version="1.7.*"

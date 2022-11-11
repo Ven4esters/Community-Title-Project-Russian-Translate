@@ -1,37 +1,37 @@
 ﻿l_russian:
- bm_867_adventurers:0 "The Great Adventurers"
- bm_867_adventurers_desc:0 "Every dynasty comes from humble beginnings. The climb to power is usually a slow process, each generation moving a few steps up the ladder, through carefully planned marriages and ceaseless wars.\n\n#bold But these are times of great change and upheaval. With a lot of courage, and maybe a little luck, a hero might raise their family name from obscurity to legend. Are you ready to take on the challenge?#!"
+ bm_867_adventurers:0 "Великие авантюристы"
+ bm_867_adventurers_desc:0 "Каждая династия начинается с малого. Восхождение к вершинам власти обычно происходит небыстро: каждое новое поколение поднимается на несколько ступеней благодаря тщательно спланированным бракам и непрекращающимся войнам.\n\n#bold Но это время великих перемен и потрясений. Имея достаточно отваги и немного удачи, герой может вознести имя своей семьи из безвестности и стать легендой. А вы готовы бросить вызов судьбе?#!"
 
 
  #Jarl Haesteinn
- bookmark_adventurers_jarl_haesteinn:0 "Hǫ́stęinn dróttinn"
- bookmark_adventurers_jarl_haesteinn_desc:0 "Through cunning and courage, Hæsteinn Dróttinn has become a rich man. After leading a lucrative raid through the Mediterranean together with Björn Ironside, Hæsteinn has settled in Brittany. The Franks have coffers ready for picking, and a mighty viking warrior makes a great ally in times of political turmoil.\n\n#bold Fortune does not come without enemies, however.  Will Hæsteinn's greed get the better of him, or will his dynasty prosper under your guidance?#!"
-
+ bookmark_adventurers_jarl_haesteinn:0 "Ярл Хэйстин"
+ bookmark_adventurers_jarl_haesteinn_desc:0 "Хитроумие 
+и отвага позволили ярлу Гастингу разбогатеть. Вернувшись вместе с Бьёрном Железнобоким из удачного набега на города Средиземного моря, Хэйстин осел в Бретани. Франкские сундуки ломятся от золота и готовы сменить хозяев, а могучий викинг станет хорошим союзником в эпоху политических смут.\n\n#bold Но богатства привлекают и завистников. Сумеет ли Хэйстин совладать с алчностью и привести династию к процветанию?#!"
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr:0 "$Ragnarr$"
- bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "alt desc"
+ bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "альтернатива"
 
  #Rurik Rurikid
- bookmark_adventurers_rurik_rurikid:0 "Hrǿrekr Holmgarðs konungr"
- bookmark_adventurers_rurik_rurikid_desc:0 "Few have risen from nothingness to greatness like the brave Rurik! Together with his brothers he brought order to the Eastern wilderness, and since their deaths, he is the lone ruler of a great Chiefdom. Yet, this is only the beginning.\n\n#bold One day, Rurik's descendants will found the Tsardom of Russia. Or will they? The destiny of this great dynasty rests in your hands.#!"
+ bookmark_adventurers_rurik_rurikid:0 "Конунг Рюрик из Хольмгарда"
+ bookmark_adventurers_rurik_rurikid_desc:0 "Немногим удалось подняться из ничтожества к величию, как это сделал отважный Рюрик! Вместе с братьями он принес порядок в восточную глушь, а после их смерти стал единолично править княжеством. И все же это только начало.\n\n#bold Однажды потомки Рюрика создадут Киевскую Русь. Или нет? Судьба этой великой династии в ваших руках.#!"
 
  bookmark_adventurers_rurik_rurikid_alt_helgi:0 "$Helgi$ $nick_the_seer$"
 
  #Eudes Capet
- bookmark_adventurers_count_eudes:0 "Cuens Eudes de Capet"
+ bookmark_adventurers_count_eudes:0 "Куан Эд де Капет"
  bookmark_adventurers_count_eudes_desc:0 "In July of 866, the viking raider Hæsteinn slew Eudes' father Robert the Strong. Mere months later, his mother Adelais died giving birth to his brother Robert. The world is cruel and the future might seem uncertain, but these orphan boys are destined to sit on the French throne. Their descendants, the Capets, will rule France for centuries to come.\n\n#bold Can you navigate the treacherous politics of medieval France and fulfill the destiny of the Robertine brothers?#!"
 
  bookmark_adventurers_count_eudes_alt_robert:0 "$Robert$"
- bookmark_adventurers_count_eudes_alt_robert_desc:0 "alt desc"
+ bookmark_adventurers_count_eudes_alt_robert_desc:0 "альтернатива"
  bookmark_adventurers_count_eudes_alt_uncle_eudes:0 "$Eudes$"
- bookmark_adventurers_count_eudes_alt_uncle_eudes_desc:0 "alt desc"
+ bookmark_adventurers_count_eudes_alt_uncle_eudes_desc:0 "альтернатива"
 
  #Almos Arpad 
- bookmark_adventurers_almos_arpad:0 "Ugyekfi Almus Moger Nagfejedelem"
- bookmark_adventurers_almos_arpad_desc:0 "When the seven Hungarian tribes united to elect a supreme leader, their votes fell on brave Álmos. One day, his son Árpád will pick up the mantle — but only if the Hungarians can keep their independence. Danger looms on the Eastern horizon.\n\n#bold Can you defend the Hungarians and lead them to greatness? This is your chance to retell the adventures of the Árpád dynasty!#!"
+ bookmark_adventurers_almos_arpad:0 "Угьекфи Альмош Мадьяр Нагфеджеделем"
+ bookmark_adventurers_almos_arpad_desc:0 "Когда семь венгерских племен объединились, чтобы выбрать предводителя, их выбор пал на отважного Альмоша. Однажды его сын, Арпад, продолжит дело отца, но только если венграм удастся отстоять свою независимость. С востока надвигается угроза.\n\n#bold Сможете ли вы защитить венгров и привести их к величию? Это ваш шанс переписать приключения династии Арпадов!#!"
 
  #Daurama Daura
- bookmark_adventurers_daurama_daura:0 "Daurama Daura"
- bookmark_adventurers_daurama_daura_desc:0 "As the Last Magajiya of Daura, Daurama is a symbol of the old ways of the Hausa people. Her new husband, Bayajiddah (originally from Iraq), represents change, as more and more outsiders flock to Hausaland, bringing their strange faiths and cultures with them...\n\n#bold Daurama is set to go down in history as the Last Magajiva, but does she have to be?#!"
+ bookmark_adventurers_daurama_daura:0 "Даурама Даура"
+ bookmark_adventurers_daurama_daura_desc:0 "Последняя магаджия Дауры Даурама воплощает древние традиции народа хауса. Ее супруг Баяджидда родом из Ирака, он стал символом перемен — все больше чужаков стремятся в земли хауса и несут странные обычаи и традиции...\n\n#bold Даурама смирилась с мыслью о том, что будет последней магадживой — но, быть может, еще не поздно все изменить?#!"
 
  bookmark_adventurers_daurama_daura_alt_bawo:0 "$Bawo$"
 
@@ -39,21 +39,21 @@
  bookmark_adventurers_almos_arpad_alt_linutika:0 "$LinU_tika$"
 
  #EVENTS
- bookmark.0101.t:0 "What's in a Name?"
- bookmark.0101.desc_intro:0 "For generations [hausaland.GetNameNoTier] has been ruled by the Magajiya, a line of matriarchal rulers of which I am the latest.\n\nOur traditions have served us well, but the world is changing. The heroic deeds of my [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName] have earned him great wealth and respect... though as [bayajidda.GetSheHe] hails from distant lands, [bayajidda.GetHerHis] successes also portend great change for my people.\n\n"
- bookmark.0101.desc_living:1 "My son, [bewo.GetTitledFirstName], is the apple of his father's eye. Though a mere babe, I wonder if he will identify more with his adventuring father, or my own traditional legacy?"
- bookmark.0101.desc_dead:1 "My son, [bewo.GetTitledFirstName], was the apple of his father's eye. Though a mere babe, I wonder if he will identify more with the legend of his adventuring father, or my own traditional legacy?"
- bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip] must carry the traditions of the [ROOT.Char.GetCulture.GetNameNoTooltip] into a new age."
- bookmark.0101.a.tt:0 "[bewo.GetUIName] will become your [dynastic|E] [heir|E]"
- bookmark.0101.b:1 "My son is my son, whatever his name or culture."
- bookmark.0101.b.tt:0 "#warning @warning_icon! This option may leave you without a [dynastic|E] [heir|E]!#!"
- bookmark.0101.c:0 "The Magajiya do not need men to carry on their legacy!"
- bookmark.0101.c.tt:0 "Your sister [shawata.GetUIName] will remain your [dynastic|E] [heir|E]"
+ bookmark.0101.t:0 "Что в имени тебе моем?"
+ bookmark.0101.desc_intro:0 "Веками [hausaland.GetNameNoTier] находится под управлением Магаджии, династии правящих матриархов, и я последняя из них.\n\nНаши традиции служили нам во благо, но мир меняется. Подвиги, что свершил мой [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName], принесли [bayajidda.GetHerHim] богатство и уважение... И в то же время [bayajidda.GetHerHis] успехи в далеких землях означают, что настало время перемен для моего народа.\n\n"
+ bookmark.0101.desc_living:1 "Мой сын, [bewo.GetTitledFirstName], стал для отца настоящей отрадой. Пока он лишь дитя, но мне интересно, станет ли он похож на своего храброго родителя, всегда готового отправиться на поиски приключений, или сохранит верность традициям, как это делаю я?"
+ bookmark.0101.desc_dead:1 "Мой сын, [bewo.GetTitledFirstName], был для отца настоящей отрадой. Пока он всего лишь дитя, но мне интересно, увлечется ли он историями об отце, который всегда был готов отправиться на поиски приключений, или сохранит верность традициям, как это делаю я?"
+ bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip] продолжит [ROOT.Char.GetCulture.GetCollectiveNounNoTooltip|l]ие традиции в новой эпохе."
+ bookmark.0101.a.tt:1 "[bewo.GetUIName] теперь [player_heir|El] вашей [Concept( 'dynasty', 'династии' )|E]"
+ bookmark.0101.b:1 "Мой сын остается моим сыном, независимо от его имени и культуры."
+ bookmark.0101.b.tt:1 "#warning @warning_icon! Этот вариант может оставить вашу [Concept( 'dynasty', 'династию' )|E] без [Concept( 'player_heir', 'игрока-наследника' )|E]!#!"
+ bookmark.0101.c:0 "Мы сохраним наследие Магаджии и без помощи мужчин!"
+ bookmark.0101.c.tt:1 "Ваша сестра [shawata.GetUIName] останется [Concept( 'player_heir', 'игроком-наследницей' )|E] вашей [Concept( 'dynasty', 'династии' )|E]"
 
  #WARS
- war_867_Aghlabid_Conquest_of_Sicily:0 "Aghlabid Conquest of Sicily"
- war_867_Saffarid_Tahirid_War:0 "Saffarid-Tahirid War"
- war_867_Reconquest_of_Bari:0 "Reconquest of Bari"
- war_867_Lothbrok_Invasion_of_East_Anglia:0 "Sons of Lothbrok Invasion of East Anglia"
- war_867_Lothbrok_Invasion_of_Lothian:0 "Sons of Lothbrok Invasion of Lothian"
- war_867_Lothbrok_Invasion_of_Northumberland:0 "Sons of Lothbrok Invasion of Northumberland"
+ war_867_Aghlabid_Conquest_of_Sicily:0 "Аглабидское завоевание Сицилии"
+ war_867_Saffarid_Tahirid_War:0 "Война Саффаридов и Тахиридов"
+ war_867_Reconquest_of_Bari:0 "Война за возвращение Бари"
+ war_867_Lothbrok_Invasion_of_East_Anglia:1 "Вторжение сыновей Лодброка в Восточную Англию"
+ war_867_Lothbrok_Invasion_of_Lothian:1 "Вторжение сыновей Лодброка в Лотиан"
+ war_867_Lothbrok_Invasion_of_Northumberland:1 "Вторжение сыновей Лодброка в Нортумберленд"

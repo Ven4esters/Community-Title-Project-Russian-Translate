@@ -98,22 +98,22 @@
  councillor_court_chaplain_orthodox_empire_female_possessive:0 "$councillor_court_chaplain_christian_empire_female_possessive$"
 
 #Islam
- councillor_court_chaplain_islam_county:0 "Имам"
- councillor_court_chaplain_islam_county_possessive:0 "Имамск"
- councillor_court_chaplain_islam_duchy:0 "Муфтий"
- councillor_court_chaplain_islam_duchy_possessive:0 "Муфтйск"
- councillor_court_chaplain_islam_kingdom:0 "Аламах"
- councillor_court_chaplain_islam_kingdom_possessive:0 "Аламахск"
- councillor_court_chaplain_islam_empire:0 "Верховный Аламах"
- councillor_court_chaplain_islam_empire_possessive:0 "Аламахкс"
+ councillor_court_chaplain_islam_county:0 "Court Imam"
+ councillor_court_chaplain_islam_county_possessive:0 "Court Imam's"
+ councillor_court_chaplain_islam_duchy:0 "Mufti"
+ councillor_court_chaplain_islam_duchy_possessive:0 "Mufti's"
+ councillor_court_chaplain_islam_kingdom:0 "Allamah"
+ councillor_court_chaplain_islam_kingdom_possessive:0 "Allamah's"
+ councillor_court_chaplain_islam_empire:0 "Grand Allamah"
+ councillor_court_chaplain_islam_empire_possessive:0 "Grand Allamah's"
 
 #Shia
  councillor_court_chaplain_ismaili_county:0 "Кади"
  councillor_court_chaplain_ismaili_county_possessive:0 "Кади"
- councillor_court_chaplain_ismaili_kingdom:0 "Аятолла"
- councillor_court_chaplain_ismaili_kingdom_possessive:0 "Аятолла"
- councillor_court_chaplain_ismaili_empire:0 "Верховный Аятолла"
- councillor_court_chaplain_ismaili_empire_possessive:0 "Верховного Аятолла"
+ councillor_court_chaplain_ismaili_kingdom:0 "Ayatollah"
+ councillor_court_chaplain_ismaili_kingdom_possessive:0 "Ayatollah's"
+ councillor_court_chaplain_ismaili_empire:0 "Grand Ayatollah"
+ councillor_court_chaplain_ismaili_empire_possessive:0 "Grand Ayatollah's"
  
 # Yazidi 
  councillor_court_chaplain_yazidi_county:0 "Пешимам"

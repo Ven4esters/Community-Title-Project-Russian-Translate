@@ -35,178 +35,178 @@
 ###################################
   #Frankish
 ###################################
-   councillor_chancellor_frankish: "Kansilârî"
+   councillor_chancellor_frankish: "Канселари"
    councillor_chancellor_french: "Шанселье"
-   councillor_chancellor_norman: "Canceliers"
-   councillor_chancellor_occitan: "Canceliers"
-   councillor_chancellor_outremer: "Cancellarius"
+   councillor_chancellor_norman: "Канселье"
+   councillor_chancellor_occitan: "Канселье"
+   councillor_chancellor_outremer: "Канселариус"
 ###################################
   #Iberian
 ###################################
-   councillor_chancellor_basque: "Jauregiko Nagusi"
-   councillor_chancellor_castilian: "Chanciller"
-   councillor_chancellor_catalan: "Senescal"
-   councillor_chancellor_portuguese_galician: "Chanceler"
-   councillor_chancellor_visigothic: "Primade de Palatsos"
-   councillor_chancellor_asturleonese: "Chanciller"
-   councillor_chancellor_aragonese: "Justicia"
+   councillor_chancellor_basque: "Хранитель дворца"
+   councillor_chancellor_castilian: "Кансиер"
+   councillor_chancellor_catalan: "Сенескаль"
+   councillor_chancellor_portuguese_galician: "Шанселер"
+   councillor_chancellor_visigothic: "Примаде"
+   councillor_chancellor_asturleonese: "Шансилер"
+   councillor_chancellor_aragonese: "Хустисиа"
 ###################################
   #North Germanic
 ###################################
-   councillor_chancellor_norse_norwegian: "Forstióri"
-   councillor_chancellor_swedish_danish: "Forstiure"
+   councillor_chancellor_norse_norwegian: "Форштур"
+   councillor_chancellor_swedish_danish: "Фостиур"
 ###################################
   #Balto-Finnic
 ###################################
-   councillor_chancellor_finnish: "Pääneuvoja"
-   councillor_chancellor_sami: "Oajvévirkéjé"
-   councillor_chancellor_estonian: "Peanõustaja"
-   councillor_chancellor_karelian: "Piäneuvuoja"
-   councillor_chancellor_vepsian: "Pänevoi"
+   councillor_chancellor_finnish: "Паанэувой"
+   councillor_chancellor_sami: "Ойвиверки"
+   councillor_chancellor_estonian: "Пеанойстай"
+   councillor_chancellor_karelian: "Пианэувой"
+   councillor_chancellor_vepsian: "Панэвой"
 ###################################
   #Central Germanic
 ###################################
-   councillor_hre_chancellor_male_saxon: "Ersekenselære"
-   councillor_hre_chancellor_female_saxon: "Ersekenselærinne"
-   councillor_chancellor_male_saxon: "Kenselære"
-   councillor_chancellor_female_saxon: "Kenselærinne"
+   councillor_hre_chancellor_male_saxon: "Эрскенсилиар"
+   councillor_hre_chancellor_female_saxon: "Эрскенсилиарин"
+   councillor_chancellor_male_saxon: "Кенсилиар"
+   councillor_chancellor_female_saxon: "Кенсилиарин"
    
-   councillor_hre_chancellor_male_mhg: "Erzekanzelære"
-   councillor_hre_chancellor_female_mhg: "Erzekanzelærin"
-   councillor_chancellor_male_mhg: "Kanzelære"
-   councillor_chancellor_female_mhg: "Kanzelærin"
+   councillor_hre_chancellor_male_mhg: "Эрцконшелэр"
+   councillor_hre_chancellor_female_mhg: "Эрцконшелэр"
+   councillor_chancellor_male_mhg: "Коншерэр"
+   councillor_chancellor_female_mhg: "Коншелэр"
    
-   councillor_hre_chancellor_dutch: "Aertscancelier"
-   councillor_chancellor_dutch: "Cancelier"
+   councillor_hre_chancellor_dutch: "Артсканселир"
+   councillor_chancellor_dutch: "Канселир"
    
-   councillor_chancellor_frisian: "Kenselere"
+   councillor_chancellor_frisian: "Кенселер"
 ###################################
   #Arabic
 ###################################
-   councillor_chancellor_arabic_group_male: "Wazīr"
-   councillor_chancellor_arabic_group_female: "Sayyida"
-   councillor_chancellor_andalusian_male: "Ḥājib"
-   councillor_chancellor_andalusian_female: "Sayyida"
-   councillor_chancellor_egyptian_coptic_male: "Prəsbəutês"
-   councillor_chancellor_egyptian_coptic_female: "Prəsbəira"
+   councillor_chancellor_arabic_group_male: "Вазир"
+   councillor_chancellor_arabic_group_female: "Саида"
+   councillor_chancellor_andalusian_male: "Хаажибун"
+   councillor_chancellor_andalusian_female: "Саида"
+   councillor_chancellor_egyptian_coptic_male: "Присбутис"
+   councillor_chancellor_egyptian_coptic_female: "Присбутейра"
 ###################################
   #Byzantine
 ###################################
-   councillor_chancellor_armenian: "Kՙartowłar"
-   councillor_chancellor_greek_male: "Magistros"
-   councillor_chancellor_greek_female: "Magistrissa"
+   councillor_chancellor_armenian: "Кхорхдакан"
+   councillor_chancellor_greek_male: "Магистр"
+   councillor_chancellor_greek_female: "Магистр"
    councillor_chancellor_georgian: "Mts’ignobartuxutsesi"
-   councillor_chancellor_alan: "Minævar"
-   councillor_chancellor_assyrian_male: "Dayyānā"
-   councillor_chancellor_assyrian_female: "Dayyāntā"
+   councillor_chancellor_alan: "Минэвар"
+   councillor_chancellor_assyrian_male: "Даян"
+   councillor_chancellor_assyrian_female: "Даянта"
 ###################################
   #Latin
 ###################################
-   councillor_hre_chancellor_italian_male: "Arcicancelliere"
-   councillor_hre_chancellor_italian_female: "Arcicancellira"
-   councillor_chancellor_italian_male: "Cancelliere"
-   councillor_chancellor_italian_female: "Cancelliera"
-   councillor_chancellor_roman_male: "Magister Officiorum"
-   councillor_chancellor_roman_female: "Magistra Officiorum"
-   councillor_chancellor_cisalpine_male: "Cancellero"
-   councillor_chancellor_cisalpine_female: "Cancellera"
-   councillor_chancellor_sardinian: "Cancelleri"
-   councillor_chancellor_sicilian_male: "Canchilleri"
-   councillor_chancellor_sicilian_female: "Canchillera"
-   councillor_chancellor_lombard_male: "Referendariu"
-   councillor_chancellor_lombard_female: "Referendaria"
+   councillor_hre_chancellor_italian_male: "Арчиканчельере"
+   councillor_hre_chancellor_italian_female: "Арчиканчилира"
+   councillor_chancellor_italian_male: "Канчельере"
+   councillor_chancellor_italian_female: "Канчелира"
+   councillor_chancellor_roman_male: "Магистер офицорум"
+   councillor_chancellor_roman_female: "Магистра офицорум"
+   councillor_chancellor_cisalpine_male: "Канчелэро"
+   councillor_chancellor_cisalpine_female: "Качелэра"
+   councillor_chancellor_sardinian: "Канчелери"
+   councillor_chancellor_sicilian_male: "Канчилер"
+   councillor_chancellor_sicilian_female: "Канчилера"
+   councillor_chancellor_lombard_male: "Референдарю"
+   councillor_chancellor_lombard_female: "Референдарю"
 ###################################
   #Southern Slavic
 ###################################
-   councillor_chancellor_bosnian_serbian: "Tepčija"
-   councillor_chancellor_vlach_male: "Logofăt"
-   councillor_chancellor_vlach_female: "Logofăteasă"
-   councillor_chancellor_bulgarian_male: "Logotet"
-   councillor_chancellor_bulgarian_female: "Logotesa"
+   councillor_chancellor_bosnian_serbian: "Тепчий"
+   councillor_chancellor_vlach_male: "Логофэт"
+   councillor_chancellor_vlach_female: "Логофэтес"
+   councillor_chancellor_bulgarian_male: "Логотет"
+   councillor_chancellor_bulgarian_female: "Логотет"
 ###################################
   #Western Slavic
 ###################################
-   councillor_chancellor_pommeranian_male: "Kanclérz"
-   councillor_chancellor_pommeranian_female: "Kanclérka"
-   councillor_chancellor_czech_male: "Kancler"
-   councillor_chancellor_czech_female: "Kanclerka"
-   councillor_chancellor_polish_male: "Kanclerz"
-   councillor_chancellor_polish_female: "Kanclerzyni"
-   councillor_chancellor_polabian_male: "Ťenslår"
-   councillor_chancellor_polabian_female: "Ťenslårskă"
-   councillor_chancellor_slovien_male: "Kancelár"
-   councillor_chancellor_slovien_female: "Kancelárka"
+   councillor_chancellor_pommeranian_male: "Канцлерж"
+   councillor_chancellor_pommeranian_female: "Канцлэрка"
+   councillor_chancellor_czech_male: "Канцлер"
+   councillor_chancellor_czech_female: "Канцлерка"
+   councillor_chancellor_polish_male: "Канцлерж"
+   councillor_chancellor_polish_female: "Канцлержени"
+   councillor_chancellor_polabian_male: "Ťенслåр"
+   councillor_chancellor_polabian_female: "Ťенслåрскă"
+   councillor_chancellor_slovien_male: "Канцелáр"
+   councillor_chancellor_slovien_female: "Канцелáрка"
 ###################################
   #Magyar
 ###################################
-   councillor_chancellor_mogyer: "Horca"
-   councillor_chancellor_hungarian: "Nádor"
+   councillor_chancellor_mogyer: "Хорка"
+   councillor_chancellor_hungarian: "Надор"
 ###################################
   #Baltic
 ###################################
-   councillor_chancellor_latgalian: "Kanclers"
-   councillor_chancellor_lithuanian: "Kancleris"
-   councillor_chancellor_prussian: "Kanclers"
+   councillor_chancellor_latgalian: "Канцлерс"
+   councillor_chancellor_lithuanian: "Канцлерис"
+   councillor_chancellor_prussian: "Канцлерс"
 ###################################
   #Eastern Slavic
 ###################################
    councillor_chancellor_russian: "Огнищащин"
-   councillor_chancellor_ilmenian: "Ogniščanine"
-   councillor_chancellor_severian_volhynian: "Ogniščaninŭ"
+   councillor_chancellor_ilmenian: "Огнищанин"
+   councillor_chancellor_severian_volhynian: "Огнищанину"
 ###################################
   #Akan
 ###################################
-   councillor_chancellor_akan: "Aheṅkwaa"
+   councillor_chancellor_akan: "Ахенква"
 ###################################
   #Central African
 ###################################
-   councillor_chancellor_hausa: "Makā̀mā"
+   councillor_chancellor_hausa: "Макама"
 ###################################
   #Dravidian 
 ###################################
-   councillor_chancellor_tamil: "Tirumantira Ōlai"
-   councillor_chancellor_telugu: "Herisāndhivigrahi"
-   councillor_chancellor_kannada: "Mahāsāndhivigrahi"
+   councillor_chancellor_tamil: "Тирумантир Олай"
+   councillor_chancellor_telugu: "Херискандхивиграхи"
+   councillor_chancellor_kannada: "Махасанхивиграхи"
 ###################################
   #East African
 ###################################
-   councillor_chancellor_ethiopian: "Ts'äḥafē Tə’əzaz"
-   councillor_chancellor_nubian: "Irt"
-   councillor_chancellor_daju: "Sár'ìné"
+   councillor_chancellor_ethiopian: "Ts'äḥafē Tə’əzaz Тсехафи Тэзаз"
+   councillor_chancellor_nubian: "Ирт"
+   councillor_chancellor_daju: "Сарине"
 ###################################
   #Indo-Aryan
 ###################################
-   councillor_chancellor_bengali: "Mahāsāndhivigahī"
-   councillor_chancellor_oriya: "Mahāsanimigra"
-   councillor_chancellor_punjabi: "Mahāsāndiviggahī"
-   councillor_chancellor_marathi_nepali: "Mahāsāndivīgahī"
-   councillor_chancellor_kashmiri: "Mahāsāndhivigrahika"
-   councillor_chancellor_sinhala: "Mahāsāndivīgahī"
+   councillor_chancellor_bengali: "Махасандхивигахи"
+   councillor_chancellor_oriya: "Махасанимигра"
+   councillor_chancellor_punjabi: "Махасандвигахи"
+   councillor_chancellor_marathi_nepali: "Махасанвигахи"
+   councillor_chancellor_kashmiri: "Махасандвирграхика"
+   councillor_chancellor_sinhala: "Махасанвигахи"
 ###################################
   #Senegambian
 ###################################
-   councillor_chancellor_serer: "Jaraf"
-   councillor_chancellor_wolof: "Jogomaay"
+   councillor_chancellor_serer: "Джараф"
+   councillor_chancellor_wolof: "Джогомай"
 ###################################
   #Turkish
 ###################################
-   councillor_chancellor_turkish: "Vezîr"
-   councillor_chancellor_cuman: "Tilmac"
-   councillor_chancellor_khazar: "Jawašğïr"
-   councillor_chancellor_karluk: "Bilge"
-   councillor_chancellor_uyghur: "Ögä"
+   councillor_chancellor_turkish: "Визирь"
+   councillor_chancellor_cuman: "Тилмак"
+   councillor_chancellor_khazar: "Джавашгир"
+   councillor_chancellor_karluk: "Билге"
+   councillor_chancellor_uyghur: "Ёга"
 ###################################
   #Iranian
 ###################################
-   councillor_chancellor_persian: "Vazir"
-   councillor_chancellor_sogdian: "Ðipīrpat"
-   councillor_chancellor_tocharian_male: "Purohite"
-   councillor_chancellor_tocharian_female: "Purohitāñca"
-   councillor_chancellor_kurdish: "Wezīr"
-   councillor_chancellor_baloch: "Wazir"
-   councillor_chancellor_saka: "Pharṣavatā"
-   councillor_chancellor_khwarezmian: "Wazīr"
-   councillor_chancellor_tajik: "Vazir"
+   councillor_chancellor_persian: "Вазир"
+   councillor_chancellor_sogdian: "Дипирпад"
+   councillor_chancellor_tocharian_male: "Пурохит"
+   councillor_chancellor_tocharian_female: "Пурохитанка"
+   councillor_chancellor_kurdish: "Везир"
+   councillor_chancellor_baloch: "Вазир"
+   councillor_chancellor_saka: "Фарсавата"
+   councillor_chancellor_khwarezmian: "Вазир"
+   councillor_chancellor_tajik: "Вазир"
 ###################################
   #Default
 ###################################
@@ -216,160 +216,160 @@
 ################################### 
   #Goidelic
 ################################### 
-   councillor_steward_irish_male: "Rechtaire"
-   councillor_steward_irish_female: "Banrechtaire"
+   councillor_steward_irish_male: "Рэхтайр"
+   councillor_steward_irish_female: "Банрэхтайре"
 ################################### 
   #West Germanic
 ################################### 
-   councillor_steward_english: "Stiward"
-   councillor_steward_anglo_saxon: "Feohgeréfa"
-   councillor_steward_old_saxon: "Kamerâri"
-   councillor_steward_scottish: "Stewart"
+   councillor_steward_english: "Стивард"
+   councillor_steward_anglo_saxon: "Феохгерефа"
+   councillor_steward_old_saxon: "Камерар"
+   councillor_steward_scottish: "Стюард"
 ################################### 
   #Brythonic
 ################################### 
-   councillor_steward_pictish_male: "Penfair"
-   councillor_steward_pictish_female: "Penfaires"
-   councillor_steward_welsh_male: "Dysteyn"
-   councillor_steward_welsh_female: "Dysteynes"
-   councillor_steward_breton_male: "Senessal"
-   councillor_steward_breton_female: "Senessalez"
-   councillor_steward_cornish_male: "Dysteyn"
-   councillor_steward_cornish_female: "Dysteynes"
-   councillor_steward_cumbrian_male: "Penfair"
-   councillor_steward_cumbrian_female: "Penfaires"
+   councillor_steward_pictish_male: "Перфейр"
+   councillor_steward_pictish_female: "Пенфайрес"
+   councillor_steward_welsh_male: "Дюнстейн"
+   councillor_steward_welsh_female: "Дюнстейнес"
+   councillor_steward_breton_male: "Сенешаль"
+   councillor_steward_breton_female: "Сенешаль"
+   councillor_steward_cornish_male: "Динстейн"
+   councillor_steward_cornish_female: "Динстейнес"
+   councillor_steward_cumbrian_male: "Пенфейр"
+   councillor_steward_cumbrian_female: "Пенфейрес"
 ################################### 
   #Frankish
 ################################### 
-   councillor_steward_frankish: "Siniskalk"
-   councillor_steward_french: "Seneschals"
-   councillor_steward_norman_male: "Seneschals"
-   councillor_steward_norman_female: "Seneschale"
-   councillor_steward_occitan: "Senescalcs"
-   councillor_steward_outremer: "Siniscalcus"
+   councillor_steward_frankish: "Синискалк"
+   councillor_steward_french: "Сенешальс"
+   councillor_steward_norman_male: "Сенешальс"
+   councillor_steward_norman_female: "Сенешальи"
+   councillor_steward_occitan: "Сенескальс"
+   councillor_steward_outremer: "Синескалус"
 ################################### 
   #Iberian
 ###################################
-   councillor_steward_basque: "Maiordomu"
-   councillor_steward_castilian: "Mayordomo"
-   councillor_steward_catalan_male: "Mestre Racional"
-   councillor_steward_catalan_female: "Mestressa Racional"
-   councillor_steward_portuguese_galician: "Moordomo"
-   councillor_steward_visigothic_male: "Tesorarjo"
-   councillor_steward_visigothic_female: "Tesorarja"
-   councillor_steward_asturleonese: "Mayordomu"
-   councillor_steward_aragonese: "Baile General"
+   councillor_steward_basque: "Майордом"
+   councillor_steward_castilian: "Майордом"
+   councillor_steward_catalan_male: "Местре Рациональ"
+   councillor_steward_catalan_female: "Местрессе Рациональ"
+   councillor_steward_portuguese_galician: "Мурдом"
+   councillor_steward_visigothic_male: "Тесорарьё"
+   councillor_steward_visigothic_female: "Тесорарья"
+   councillor_steward_asturleonese: "Майордом"
+   councillor_steward_aragonese: "Байле Генераль"
 ################################### 
   #North Germanic
 ###################################
-   councillor_steward_norse_norwegian_male: "Ármaðr"
-   councillor_steward_norse_norwegian_female: "Dęigia"
-   councillor_steward_swedish_danish_male: "Bryte"
-   councillor_steward_swedish_danish_female: "Deghia"
+   councillor_steward_norse_norwegian_male: "Армад"
+   councillor_steward_norse_norwegian_female: "Дейгиа"
+   councillor_steward_swedish_danish_male: "Брайт"
+   councillor_steward_swedish_danish_female: "Декиа"
 ################################### 
   #Balto-Finnic
 ################################### 
-   councillor_steward_finnish: "Kodanhoitaja"
-   councillor_steward_sami: "Koatévirkéjé"
-   councillor_steward_estonian: "Kojahoidja"
+   councillor_steward_finnish: "Коданхойта"
+   councillor_steward_sami: "Коатевиркеж"
+   councillor_steward_estonian: "Кояхойдья"
 ################################### 
   #Central Germanic
 ################################### 
-   councillor_hre_steward_saxon_male: "Ersekêmerære"
-   councillor_hre_steward_saxon_female: "Ersekêmerærinne"
-   councillor_steward_saxon_male: "Kêmerære"
-   councillor_steward_saxon_female: "Kêmerærinne"
+   councillor_hre_steward_saxon_male: "Эрскемерер"
+   councillor_hre_steward_saxon_female: "Эрскемерин"
+   councillor_steward_saxon_male: "Кемерер"
+   councillor_steward_saxon_female: "Кемерерин"
    
-   councillor_hre_steward_mhg_male: "Erzekamerære"
-   councillor_hre_steward_mhg_female: "Erzekamerærin"
-   councillor_steward_mhg_male: "Kamerære"
-   councillor_steward_mhg_female: "Kamerærin"
+   councillor_hre_steward_mhg_male: "Эрцкамерер"
+   councillor_hre_steward_mhg_female: "Эрцкамерерин"
+   councillor_steward_mhg_male: "Камерер"
+   councillor_steward_mhg_female: "Камерер"
    
-   councillor_hre_steward_dutch: "Aertsrentemeester"
-   councillor_steward_dutch: "Rentemeester"
+   councillor_hre_steward_dutch: "Аэртсрентемистр"
+   councillor_steward_dutch: "Рентемистр"
    
-   councillor_steward_frisian: "Drusta"
+   councillor_steward_frisian: "Друста"
 ################################### 
   #Arabic
 ################################### 
-   councillor_steward_arabic_group_male: "Hājib"
-   councillor_steward_arabic_group_female: "Qahramāna"
-   councillor_steward_egyptian_coptic_male: "Oikonomos"
-   councillor_steward_egyptian_coptic_female: "Oikonoma"
-   councillor_steward_maghrebi: "Ḵāzin"
-   councillor_steward_andalusian: "Kātib"
+   councillor_steward_arabic_group_male: "Хаджиб"
+   councillor_steward_arabic_group_female: "Кахрамана"
+   councillor_steward_egyptian_coptic_male: "Ойкономос"
+   councillor_steward_egyptian_coptic_female: "Ойконома"
+   councillor_steward_maghrebi: "Казин"
+   councillor_steward_andalusian: "Катиб"
 ################################### 
   #Byzantine
 ################################### 
-   councillor_steward_armenian: "Hazarapet"
-   councillor_steward_greek_male: "Sakellarios"
-   councillor_steward_greek_female: "Sakellarissa"
+   councillor_steward_armenian: "Харазепет"
+   councillor_steward_greek_male: "Сакералий"
+   councillor_steward_greek_female: "Сакералий"
    councillor_steward_georgian: "Mech’urch’letuxutsesi"
-   councillor_steward_alan: "Xæznadar"
-   councillor_steward_assyrian_male: "Gēzaḇrā"
-   councillor_steward_assyrian_female: "Gēzaḇrətā"
+   councillor_steward_alan: "Ксезнадар"
+   councillor_steward_assyrian_male: "Гезабр"
+   councillor_steward_assyrian_female: "Гезабрета"
 ################################### 
   #Latin
 ###################################
-   councillor_hre_steward_italian: "Arcimaiordomo"
-   councillor_steward_italian: "Maiordomo"
-   councillor_steward_roman_male: "Arcarius"
-   councillor_steward_roman_female: "Arcaria"
-   councillor_steward_cisalpine: "Maiordomo"
-   councillor_steward_sardinian: "Maiurdomu"
-   councillor_steward_sicilian: "Maiurdomu"
-   councillor_steward_lombard: "Stolesaiz"
+   councillor_hre_steward_italian: "Архимайордом"
+   councillor_steward_italian: "Майордом"
+   councillor_steward_roman_male: "Аркариус"
+   councillor_steward_roman_female: "Аркариа"
+   councillor_steward_cisalpine: "Майордом"
+   councillor_steward_sardinian: "Майордом"
+   councillor_steward_sicilian: "Майюрдом"
+   councillor_steward_lombard: "Столесиаз"
 ###################################
   #Southern Slavic
 ###################################
-   councillor_steward_bosnian_serbian: "Kaznac"
-   councillor_steward_vlach_male: "Vistiernic"
-   councillor_steward_vlach_female: "Vistiernică"
-   councillor_steward_bulgarian_male: "Protovestiarii"
-   councillor_steward_bulgarian_female: "Protovestiarija"
+   councillor_steward_bosnian_serbian: "Казначей"
+   councillor_steward_vlach_male: "Вистерник"
+   councillor_steward_vlach_female: "Вистерница"
+   councillor_steward_bulgarian_male: "Протовестиарий"
+   councillor_steward_bulgarian_female: "Простовестиарий"
 ###################################
   #Western Slavic
 ###################################
-   councillor_steward_pommeranian: "Pòdskarbi"
-   councillor_steward_czech_male: "Purkrabie"
-   councillor_steward_czech_female: "Purkrabina"
-   councillor_steward_polish_male: "Podskarbi"
-   councillor_steward_polish_female: "Podskarbina"
-   councillor_steward_polabian_male: "Amman"
-   councillor_steward_polabian_female: "Ammanaićă"
-   councillor_steward_slovien_male: "Purkrabí"
-   councillor_steward_slovien_female: "Purkrabyňa"
+   councillor_steward_pommeranian: "Подскарбий"
+   councillor_steward_czech_male: "Пуркрабий"
+   councillor_steward_czech_female: "Пуркрабина"
+   councillor_steward_polish_male: "Подскарбий"
+   councillor_steward_polish_female: "Подскарбина"
+   councillor_steward_polabian_male: "Амман"
+   councillor_steward_polabian_female: "Амманайца"
+   councillor_steward_slovien_male: "Пуркраби"
+   councillor_steward_slovien_female: "Пуркрабыня"
 ###################################
   #Magyar
 ###################################
-   councillor_steward_mogyer: "Tovarnuc"
-   councillor_steward_hungarian: "Kincstárnok"
+   councillor_steward_mogyer: "Товарнуц"
+   councillor_steward_hungarian: "Кинстрарнок"
 ###################################
   #Baltic
 ###################################
-   councillor_steward_latgalian_male: "Puorvaļdeituojs"
-   councillor_steward_latgalian_female: "Puorvaļdeituoja"
-   councillor_steward_lithuanian_male: "Tijūnas"
-   councillor_steward_lithuanian_female: "Tijūnė"
-   councillor_steward_prussian_male: "Perwaldītajs"
-   councillor_steward_prussian_female: "Perwaldītaja"
+   councillor_steward_latgalian_male: "Пуорвальдейтуйс"
+   councillor_steward_latgalian_female: "Пуорвальдейтия"
+   councillor_steward_lithuanian_male: "Тиюнас"
+   councillor_steward_lithuanian_female: "Тиюна"
+   councillor_steward_prussian_male: "Первалдитай"
+   councillor_steward_prussian_female: "Первалдитай"
 ###################################
   #Eastern Slavic
 ###################################  
    councillor_steward_russian_male: "Подъездной"
-   councillor_steward_russian_female: "Podjězdnaya"
-   councillor_steward_ilmenian_severian_male: "Podjězdĭnojĭ"
-   councillor_steward_volhynian_male: "Podjězdĭnŭjĭ"
-   councillor_steward_ilmenian_severian_volhynian_female: "Podjězdĭnaja"
+   councillor_steward_russian_female: "Подъездная"
+   councillor_steward_ilmenian_severian_male: "Подъездной"
+   councillor_steward_volhynian_male: "Подъездной"
+   councillor_steward_ilmenian_severian_volhynian_female: "Подъездная"
 ###################################
   #Akan
 ################################### 
-   councillor_steward_akan_male: "Gyaasehéne"
-   councillor_steward_akan_female: "Gyaasehémmaa"
+   councillor_steward_akan_male: "Гъяшехене"
+   councillor_steward_akan_female: "Гъяшехема"
 ###################################
   #Dravidian
 ###################################
-   councillor_steward_tamil: "Variputtaka Kaṇakku"
+   councillor_steward_tamil: "Варипуттака Канакку"
    councillor_steward_telugu: "Mānikapāndaramkāpari"
    councillor_steward_kannada: "Mahābhaṇdāri"
 ###################################

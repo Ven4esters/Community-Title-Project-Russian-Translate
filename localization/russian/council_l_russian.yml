@@ -59,20 +59,20 @@
 #Flavor localization for Court Chaplains, sorted by Religion.
 
 #Fallback
- councillor_court_chaplain_theocrat_county:1 "Suffragan Bishop"
- councillor_court_chaplain_theocrat_county_possessive:1 "Suffragan Bishop's"
- councillor_court_chaplain_theocrat_duchy:1 "Bishop"
- councillor_court_chaplain_theocrat_duchy_possessive:1 "Bishop's"
- councillor_court_chaplain_theocrat_kingdom:1 "Archbishop"
- councillor_court_chaplain_theocrat_kingdom_possessive:1 "Archbishop's"
- councillor_court_chaplain_theocrat_empire:0 "Patriarch"
- councillor_court_chaplain_theocrat_empire_female:0 "Matriarch"
- councillor_court_chaplain_theocrat_empire_possessive:0 "Patriarch's"
- councillor_court_chaplain_theocrat_empire_female_possessive:0 "Matriarch's"
+ councillor_court_chaplain_theocrat_county:1 "Викарный Епископ"
+ councillor_court_chaplain_theocrat_county_possessive:1 "Викарного Епископа"
+ councillor_court_chaplain_theocrat_duchy:1 "Епископ"
+ councillor_court_chaplain_theocrat_duchy_possessive:1 "Епископа"
+ councillor_court_chaplain_theocrat_kingdom:1 "Архиепископ"
+ councillor_court_chaplain_theocrat_kingdom_possessive:1 "Архиепископ"
+ councillor_court_chaplain_theocrat_empire:0 "Патриарх"
+ councillor_court_chaplain_theocrat_empire_female:0 "Матриарх"
+ councillor_court_chaplain_theocrat_empire_possessive:0 "Патриарха"
+ councillor_court_chaplain_theocrat_empire_female_possessive:0 "Матриарха"
 
 #Christian
- councillor_court_chaplain_christian_county:1 "Викарный епископ"
- councillor_court_chaplain_christian_county_possessive:1 "Викарного епископа"
+ councillor_court_chaplain_christian_county:1 "Викарный Епископ"
+ councillor_court_chaplain_christian_county_possessive:1 "Викарного Епископа"
  councillor_court_chaplain_christian_duchy:1 "Епископ"
  councillor_court_chaplain_christian_duchy_possessive:1 "Епископа"
  councillor_court_chaplain_christian_kingdom:1 "Архиепископ"
@@ -80,7 +80,7 @@
  councillor_court_chaplain_christian_empire:0 "Патриарх"
  councillor_court_chaplain_christian_empire_female:0 "Матриарх"
  councillor_court_chaplain_christian_empire_possessive:0 "Патриарха"
- councillor_court_chaplain_christian_empire_female_possessive:0 "Патриарха"
+ councillor_court_chaplain_christian_empire_female_possessive:0 "Матриарха"
 
  #Orthodox - levelled because it's forking madness
 
@@ -98,22 +98,22 @@
  councillor_court_chaplain_orthodox_empire_female_possessive:0 "$councillor_court_chaplain_christian_empire_female_possessive$"
 
 #Islam
- councillor_court_chaplain_islam_county:0 "Court Imam"
- councillor_court_chaplain_islam_county_possessive:0 "Court Imam's"
- councillor_court_chaplain_islam_duchy:0 "Mufti"
- councillor_court_chaplain_islam_duchy_possessive:0 "Mufti's"
- councillor_court_chaplain_islam_kingdom:0 "Allamah"
- councillor_court_chaplain_islam_kingdom_possessive:0 "Allamah's"
- councillor_court_chaplain_islam_empire:0 "Grand Allamah"
- councillor_court_chaplain_islam_empire_possessive:0 "Grand Allamah's"
+ councillor_court_chaplain_islam_county:0 "Придворный имем"
+ councillor_court_chaplain_islam_county_possessive:0 "Придворного имама"
+ councillor_court_chaplain_islam_duchy:0 "Муфтий"
+ councillor_court_chaplain_islam_duchy_possessive:0 "Муфтия"
+ councillor_court_chaplain_islam_kingdom:0 "Алламах"
+ councillor_court_chaplain_islam_kingdom_possessive:0 "Алламаха"
+ councillor_court_chaplain_islam_empire:0 "Верховый Алламах"
+ councillor_court_chaplain_islam_empire_possessive:0 "Верховного Алламаха"
 
 #Shia
  councillor_court_chaplain_ismaili_county:0 "Кади"
  councillor_court_chaplain_ismaili_county_possessive:0 "Кади"
- councillor_court_chaplain_ismaili_kingdom:0 "Ayatollah"
- councillor_court_chaplain_ismaili_kingdom_possessive:0 "Ayatollah's"
- councillor_court_chaplain_ismaili_empire:0 "Grand Ayatollah"
- councillor_court_chaplain_ismaili_empire_possessive:0 "Grand Ayatollah's"
+ councillor_court_chaplain_ismaili_kingdom:0 "Аятоллах"
+ councillor_court_chaplain_ismaili_kingdom_possessive:0 "Аятоллаха"
+ councillor_court_chaplain_ismaili_empire:0 "Верховный Аятоллах"
+ councillor_court_chaplain_ismaili_empire_possessive:0 "Верховного Аятоллаха"
  
 # Yazidi 
  councillor_court_chaplain_yazidi_county:0 "Пешимам"

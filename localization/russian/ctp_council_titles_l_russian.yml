@@ -170,7 +170,7 @@
 ###################################
   #East African
 ###################################
-   councillor_chancellor_ethiopian: "Ts'äḥafē Tə’əzaz Тсехафи Тэзаз"
+   councillor_chancellor_ethiopian: "Тсехафи Тэзаз"
    councillor_chancellor_nubian: "Ирт"
    councillor_chancellor_daju: "Сарине"
 ###################################
@@ -302,8 +302,8 @@
   #Byzantine
 ################################### 
    councillor_steward_armenian: "Харазепет"
-   councillor_steward_greek_male: "Сакералий"
-   councillor_steward_greek_female: "Сакералий"
+   councillor_steward_greek_male: "Сакеларий"
+   councillor_steward_greek_female: "Сакеларий"
    councillor_steward_georgian: "Mech’urch’letuxutsesi"
    councillor_steward_alan: "Ксезнадар"
    councillor_steward_assyrian_male: "Гезабр"
@@ -370,45 +370,45 @@
   #Dravidian
 ###################################
    councillor_steward_tamil: "Варипуттака Канакку"
-   councillor_steward_telugu: "Mānikapāndaramkāpari"
-   councillor_steward_kannada: "Mahābhaṇdāri"
+   councillor_steward_telugu: "Капури"
+   councillor_steward_kannada: "Махабхандари"
 ###################################
   #Indo-Aryan
 ###################################
-   councillor_steward_bengali: "Mahāhaṁḍārī"
-   councillor_steward_oriya: "Bhaṁḍārāhigaṛa"
+   councillor_steward_bengali: "Махахамдари"
+   councillor_steward_oriya: "Бхамдарахигар"
    councillor_steward_punjabi: "Mahābaṁḍārī"
-   councillor_steward_female_rajput: "Kōsahigarāhivātī"
-   councillor_steward_male_rajput: "Kōsahigarāhivaï"
+   councillor_steward_female_rajput: "Косахигарахивати"
+   councillor_steward_male_rajput: "Косахигарахиваи"
    councillor_steward_female_kashmiri: "Gṛhakṛtyādhipatnī"
    councillor_steward_male_kashmiri: "Gṛhakṛtyādhipati"
-   councillor_steward_sinhala: "Baḍakariya"
-   councillor_steward_nepali: "Bhaṁḍārī"
+   councillor_steward_sinhala: "Бадакарий"
+   councillor_steward_nepali: "Бахмдари"
 ###################################
   #East African
 ###################################
-   councillor_steward_ethiopian: "Bajerond"
-   councillor_steward_nubian: "Ŋok Eidñil"
+   councillor_steward_ethiopian: "Баджерон"
+   councillor_steward_nubian: "Нок Эйднил"
 ###################################
   #Senegambian
 ###################################
-   councillor_steward_serer: "Sakh-Sakh"
-   councillor_steward_wolof: "Maalo"
+   councillor_steward_serer: "Сакх"
+   councillor_steward_wolof: "Маало"
 ###################################
   #Turkish
 ###################################
-   councillor_steward_karluk: "Elïmğa"
-   councillor_steward_uyghur: "Ïmğa"
+   councillor_steward_karluk: "Элимга"
+   councillor_steward_uyghur: "Имга"
 ###################################
   #Iranian
 ###################################
-   councillor_steward_persian: "Ganjwar"
-   councillor_steward_sogdian: "Framānðār"
-   councillor_steward_tocharian_male: "Yirmakke"
-   councillor_steward_tocharian_female: "Yirmakka"
-   councillor_steward_afghan: "Ḵazānadā́r"
-   councillor_steward_saka: "Malysaka"
-   councillor_steward_khwarezmian: "Mudabbir"
+   councillor_steward_persian: "Ганжвар"
+   councillor_steward_sogdian: "Фрамандар"
+   councillor_steward_tocharian_male: "Йирмакке"
+   councillor_steward_tocharian_female: "Йирамакка"
+   councillor_steward_afghan: "Казанадар"
+   councillor_steward_saka: "Малысак"
+   councillor_steward_khwarezmian: "Мудаббир"
 ###################################
   #Default
 ###################################
@@ -418,42 +418,42 @@
 ################################### 
   #Goidelic
 ################################### 
-   councillor_marshal_irish_male: "Tinóltaid"
-   councillor_marshal_irish_female: "Bantinóltaid"
+   councillor_marshal_irish_male: "Тчинолтэйд"
+   councillor_marshal_irish_female: "Бантинолтэйд"
 ################################### 
   #West Germanic
 ################################### 
-   councillor_marshal_english: "Constable"
-   councillor_marshal_anglo_saxon: "Steallere"
-   councillor_marshal_scottish: "Constabill"
+   councillor_marshal_english: "Констебль"
+   councillor_marshal_anglo_saxon: "Стилер"
+   councillor_marshal_scottish: "Костэбль"
 ################################### 
   #Brythonic
 ################################### 
-   councillor_marshal_pictish: "Penteylou"
-   councillor_marshal_welsh_male: "Penteulu"
-   councillor_marshal_welsh_female: "Penteules"
-   councillor_marshal_breton_male: "Conestabl"
-   councillor_marshal_breton_female: "Conestablez"
-   councillor_marshal_cornish: "Penteilu"
-   councillor_marshal_cumbrian: "Penteylou"
+   councillor_marshal_pictish: "Пентелий"
+   councillor_marshal_welsh_male: "Пентелий"
+   councillor_marshal_welsh_female: "Пентелий"
+   councillor_marshal_breton_male: "Констабль"
+   councillor_marshal_breton_female: "Констабль"
+   councillor_marshal_cornish: "Пентелий"
+   councillor_marshal_cumbrian: "Пентелий"
 ################################### 
   #Frankish
 ################################### 
-   councillor_marshal_frankish: "Marhskalk"
-   councillor_marshal_french: "Conestables"
-   councillor_marshal_norman: "Conestables"
-   councillor_marshal_occitan: "Conestables"
-   councillor_marshal_outremer: "Conestabulus"
+   councillor_marshal_frankish: "Маршальк"
+   councillor_marshal_french: "Констебль"
+   councillor_marshal_norman: "Констебль"
+   councillor_marshal_occitan: "Констебль"
+   councillor_marshal_outremer: "Конестаблис"
 ################################### 
   #Iberian
 ################################### 
-   councillor_marshal_basque: "Alferiz"
-   councillor_marshal_iberian: "Alferes"
-   councillor_marshal_catalan_male: "Conestable"
-   councillor_marshal_catalan_female: "Conestablessa"
-   councillor_marshal_portuguese_galician: "Alferes"
-   councillor_marshal_visigothic_male: "Tsuvado"
-   councillor_marshal_visigothic_female: "Tsuvada"
+   councillor_marshal_basque: "Альфериз"
+   councillor_marshal_iberian: "Альферез"
+   councillor_marshal_catalan_male: "Констебль"
+   councillor_marshal_catalan_female: "Констебль"
+   councillor_marshal_portuguese_galician: "Альферез"
+   councillor_marshal_visigothic_male: "Тсувадо"
+   councillor_marshal_visigothic_female: "Тсувада"
 ################################### 
   #North Germanic
 ################################### 

@@ -20,7 +20,7 @@
  bookmark_hastings_norway_alt_olaf:0 "$Olaf$"
  bookmark_hastings_norway_alt_ingegerd:0 "$Ingegerd$"
 
- bookmark_hastings_denmark:0 "Конунгэр Свен Эстридсен"
+ bookmark_hastings_denmark:0 "Конунг Свен Эстридсен"
  bookmark_hastings_denmark_desc:1 "Связанный узами крови с Англией и Норвегией, Свен имеет обоснованные притязания на оба трона. Увы, его войска малочисленны и недисциплинированны, что делает завоевание невозможным. Но есть и иные способы осуществить мечту...\n\n#bold Если ваши дети породнятся с могущественными семьями, это подарит вам массу полезных союзов, которые вы сможете использовать, чтобы создать империю, способную затмить сам Рим!#!"
 
  bookmark_hastings_denmark_alt_harald:0 "$Harald$ $nick_the_whetstone$"
@@ -47,9 +47,9 @@
  ### CHARACTERS
 
  # 1066
- KING_MALCOLM:0 "King Malcolm"
- KING_HAROLD:0 "King Harold"
- EADGIFU:0 "Eadgifu the Fair"
- BASTARD_WILLIAM:0 "William the Bastard"
- KING_SVEND:0 "King Svend"
- KING_HARALD:0 "Harald Hardrade"
+ KING_MALCOLM:0 "Король Малкольм"
+ KING_HAROLD:0 "Король Гарольд"
+ EADGIFU:0 "Эдита Лебединая Шея"
+ BASTARD_WILLIAM:0 "Вильгельм Бастард"
+ KING_SVEND:0 "Король Свен"
+ KING_HARALD:0 "Харальд Суровый"

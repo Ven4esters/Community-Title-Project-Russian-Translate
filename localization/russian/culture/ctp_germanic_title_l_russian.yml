@@ -3,50 +3,50 @@
 ########################################################### 
  #Germanic Religion
 ###########################################################
-  hof_germanic: "Þióðann"
-  grand_master_germanic: "Foringi"
+  hof_germanic: "Тиотан"
+  grand_master_germanic: "Форинга"
   
-  baron_male_theo_germanic: "Hofgoði"
-  baron_female_theo_germanic: "Hofgyðia"
-  barony_hold_germanic: "Hof"
+  baron_male_theo_germanic: "Хофгоди"
+  baron_female_theo_germanic: "Хофгодия"
+  barony_hold_germanic: "Хоф"
   
-  count_male_theo_germanic: "Hofgoði"
-  count_female_theo_germanic: "Hofgyðia"
-  county_theo_germanic: "Goðorð"
+  count_male_theo_germanic: "Хофгоди"
+  count_female_theo_germanic: "Хофгодия"
+  county_theo_germanic: "Годоро"
   
-  duke_male_theo_germanic: "Hǫfuðgoði"
-  duke_female_theo_germanic: "Hǫfuðgyðia"
-  duchy_theo_germanic: "Hǫfuðgoðorð"
+  duke_male_theo_germanic: "Хофудгоди"
+  duke_female_theo_germanic: "Хофудгодия"
+  duchy_theo_germanic: "Хофудгодорд"
   
-  king_male_theo_germanic: "Ríkisgoði"
-  king_female_theo_germanic: "Ríkisgyðia"
-  kingdom_theo_germanic: "Ríkisgoðorð"
+  king_male_theo_germanic: "Рикискоди"
+  king_female_theo_germanic: "Рикискодия"
+  kingdom_theo_germanic: "Рикисгодорд"
   
-  emperor_male_theo_germanic: "Vęldisgoði"
-  emperor_female_theo_germanic: "Vęldisgyðia"
-  empire_theo_germanic: "Vęldisgoðorð"
+  emperor_male_theo_germanic: "Велдисгоди"
+  emperor_female_theo_germanic: "Велдисгодия"
+  empire_theo_germanic: "Велдисгодорд"
 ########################################################### 
   #Swedish Danish
 ###########################################################
-   hof_germanic_swe_dan: "Þiuþan"
-   grand_master_germanic_swe_dan: "Foringe"
+   hof_germanic_swe_dan: "Тиутан"
+   grand_master_germanic_swe_dan: "Форинга"
    
-   baron_male_theo_germanic_swe_dan: "Hofguþe"
-   baron_female_theo_germanic_swe_dan: "Hofgyþia"
-   barony_hold_germanic_swe_dan: "Hof"
+   baron_male_theo_germanic_swe_dan: "Хофгют"
+   baron_female_theo_germanic_swe_dan: "Хофгютия"
+   barony_hold_germanic_swe_dan: "Хоф"
    
-   count_male_theo_germanic_swe_dan: "Hofguþe"
-   count_female_theo_germanic_swe_dan: "Hofgyþia"
-   county_theo_germanic_swe_dan: "Guþorþ"
+   count_male_theo_germanic_swe_dan: "Хофгут"
+   count_female_theo_germanic_swe_dan: "Хофгутия"
+   county_theo_germanic_swe_dan: "Гуторт"
    
-   duke_male_theo_germanic_swe_dan: "Hafuþguþe"
-   duke_female_theo_germanic_swe_dan: "Hafuþgyþia"
-   duchy_theo_germanic_swe_dan: "Hafuþguþorþ"
+   duke_male_theo_germanic_swe_dan: "Хафутгют"
+   duke_female_theo_germanic_swe_dan: "Хафутгютия"
+   duchy_theo_germanic_swe_dan: "Хафутгюторт"
    
-   king_male_theo_germanic_swe_dan: "Rikesguþe"
-   king_female_theo_germanic_swe_dan: "Rikesgyþia"
-   kingdom_theo_germanic_swe_dan: "Rikesguþorþ"
+   king_male_theo_germanic_swe_dan: "Рикисгут"
+   king_female_theo_germanic_swe_dan: "Рикисгютия"
+   kingdom_theo_germanic_swe_dan: "Рикесгюторт"
    
-   emperor_male_theo_germanic_swe_dan: "Vældesguþe"
-   emperor_female_theo_germanic_swe_dan: "Vældesgyþia"
-   empire_theo_germanic_swe_dan: "Vældesguþorþ"
+   emperor_male_theo_germanic_swe_dan: "Валдесгют"
+   emperor_female_theo_germanic_swe_dan: "Валдесгютия"
+   empire_theo_germanic_swe_dan: "Валдесгюторт"
